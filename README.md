@@ -23,6 +23,7 @@
 - In-depth exploration of MDP as a formalism for RL.
 - Comprehensive explanation of the value iteration algorithm.
 - Providing a formal proof of convergence for the value iteration algorithm.
+- Practical coding exercises to implement and understand the algorithm in Python.
 
 ### Week 4-5 : Q-Learning Algorithm and Project Implementation
 
