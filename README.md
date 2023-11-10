@@ -2,6 +2,10 @@
 
 **Welcome to "Agent Jackie: Reinforcement Learning Adventures in Kung Fu" – an intensive and exhilarating journey into the heart of reinforcement learning (RL). In this condensed program, participants will rapidly traverse through the essentials of machine learning, delve into Python programming, and swiftly implement a Q-learning algorithm to train an agent for the classic game "Kung Fu Master" within the OpenAI Gym environment.**
 
+##Problem Statement:
+
+Develop an adaptive reinforcement learning (RL) agent, "Agent Jackie," tasked with mastering "Kung Fu Master" directly within the OpenAI Gym environment. This challenge involves implementing the Q-learning algorithm, navigating the exploration-exploitation trade-off, and optimizing strategies within the Markov Decision Process (MDP) framework. Notably, no external dataset is required, as the training process is conducted directly using the game environment, emphasizing the agent's ability to learn and strategize in real-time. The objective is to engineer an intelligent agent capable of efficiently navigating the game environment, strategically defeating opponents, and ultimately achieving Kung Fu mastery through RL principles and algorithmic prowess.
+
 ## Project Phases
 
 ### Week 1: Introduction to Machine Learning and Python
