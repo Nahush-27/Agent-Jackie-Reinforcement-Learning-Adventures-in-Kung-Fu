@@ -15,14 +15,16 @@
 - Swift definition of RL concepts.
 - Distinction between supervised and RL.
 - Basic RL terminology: agent, environment, state, action, reward.
-
-### Week 3: Exploration-Exploitation Dilemma
-
 - Understanding the exploration-exploitation trade-off.
 - Rapid exploration strategies: epsilon-greedy, softmax, and others.
-- Immediate practical examples of exploration-exploitation impact.
 
-### Week 4: Q-Learning Algorithm and Project Implementation
+### Week 3: Markov Decision Process and Value Iteration
+
+- In-depth exploration of MDP as a formalism for RL.
+- Comprehensive explanation of the value iteration algorithm.
+- Providing a formal proof of convergence for the value iteration algorithm.
+
+### Week 4-5 : Q-Learning Algorithm and Project Implementation
 
 - Introduction to Q-learning as a model-free RL algorithm.
 - Implementing Q-learning algorithm from scratch.
