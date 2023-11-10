@@ -1,6 +1,6 @@
 # Agent Jackie: Reinforcement Learning Adventures in Kung Fu
 
-**Welcome to "Agent Kung Fu Master: RL in 4 Weeks" – an intensive and exhilarating journey into the heart of reinforcement learning (RL). In this condensed program, participants will rapidly traverse through the essentials of machine learning, delve into Python programming, and swiftly implement a Q-learning algorithm to train an agent for the classic game "Kung Fu Master" within the OpenAI Gym environment.**
+**Welcome to "Agent Jackie: Reinforcement Learning Adventures in Kung Fu" – an intensive and exhilarating journey into the heart of reinforcement learning (RL). In this condensed program, participants will rapidly traverse through the essentials of machine learning, delve into Python programming, and swiftly implement a Q-learning algorithm to train an agent for the classic game "Kung Fu Master" within the OpenAI Gym environment.**
 
 ## Project Phases
 
