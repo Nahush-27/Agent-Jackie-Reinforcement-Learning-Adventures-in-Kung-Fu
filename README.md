@@ -6,6 +6,10 @@
 
 Develop an adaptive reinforcement learning (RL) agent, "Agent Jackie," tasked with mastering "Kung Fu Master" directly within the OpenAI Gym environment. This challenge involves implementing the Q-learning algorithm, navigating the exploration-exploitation trade-off, and optimizing strategies within the Markov Decision Process (MDP) framework. Notably, no external dataset is required, as the training process is conducted directly using the game environment, emphasizing the agent's ability to learn and strategize in real-time. The objective is to engineer an intelligent agent capable of efficiently navigating the game environment, strategically defeating opponents, and ultimately achieving Kung Fu mastery through RL principles and algorithmic prowess.
 
+<p align="center" width="100%">
+    <img width="33%" src="./files/kung_fu_master.gif"> 
+</p>
+
 ## Project Phases
 
 ### Week 1: Introduction to Machine Learning and Python
