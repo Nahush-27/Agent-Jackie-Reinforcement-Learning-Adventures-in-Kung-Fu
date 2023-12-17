@@ -81,7 +81,7 @@ There will also be an assignment to check your understanding of this week's topi
 
 Follow the given steps to access your assignment:
 - Create an account on [Kaggle](https://www.kaggle.com)
-- Join the competition using https://www.kaggle.com/t/54c575b375b34359ad9b8de7613cd65e
+- Join the competition using https://www.kaggle.com/t/54c575b375b34359ad9b8de7613cd65e. __ALL THE DETAILS__ are given in the competition introduction.
 - Download the dataset, write the code in Python Notebook(.ipynb file), train the model for the training dataset, and get the predictions for the test dataset.
 - Try plotting your model using Matplotlib and see if your model has fitted well to the training dataset.
 - Upload the predictions to the Kaggle Competition.
