@@ -12,7 +12,7 @@ Develop an adaptive reinforcement learning (RL) agent, "Agent Jackie," tasked wi
 
 ## Project Phases
 
-### Week 1: Introduction to Machine Learning and Python
+### [Week 1: Introduction to Machine Learning and Python](<./Week 1/>)
 
 - Quick overview of machine learning concepts.
 - Fast-track Python programming for machine learning.
