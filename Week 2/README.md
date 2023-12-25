@@ -21,7 +21,7 @@ Now, let's turn our attention to the foundational Multi-Armed Bandit problem. We
 
 The following are some algoirthms for solving Multi Armed Bandits: 
 
-3. [**Epsilon Greedy**](https://youtu.be/EjYEsbg95x0?feature=shared)
+3. [**Epsilon Greedy Algorithm**](https://youtu.be/EjYEsbg95x0?feature=shared)
 
 4. [**Thompson Sampling Algorithm**](https://youtu.be/GVQUGNv33LY?feature=shared)
 
