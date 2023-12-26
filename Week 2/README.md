@@ -33,7 +33,7 @@ The following are some algoirthms for solving Multi Armed Bandits:
 
 ## Assignment 2
 
-Now after some heavy (maybe 🤔?) bombarding of info let's move onto the exciting part. This week you will write your very own algorithm to crack the multi-armed ~monster~ bandit. Officially you are supposed to use the [problem.ipynb](./files/problem.ipynb) as a base to implement the *Epsilon-Greedy Algorithm, the **Upper Confidence Bound(UCB) Algorithm* and the *Thompson Sampling Algorithm*.  
+Now after some heavy (maybe 🤔?) bombarding of info let's move onto the exciting part. This week you will write your very own algorithm to crack the multi-armed ~monster~ bandit. Officially you are supposed to use the [problem.ipynb](./problem.ipynb) as a base to implement the *Epsilon-Greedy Algorithm, the **Upper Confidence Bound(UCB) Algorithm* and the *Thompson Sampling Algorithm*.  
 Make sure to make plenty use of <u>classes and objects</u> while implementing the algorithm. We want you to complete the following tasks:
 1. Run the algorithms for some values of the horizon and other parameters (Your Choice Completely).
 2. At the end just print the total regret accumulated and what arm do you (your algorithm) thinks is *best*. 
