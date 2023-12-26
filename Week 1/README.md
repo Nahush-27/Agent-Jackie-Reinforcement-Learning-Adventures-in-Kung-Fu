@@ -86,3 +86,7 @@ Follow the given steps to access your assignment:
 - Try plotting your model using Matplotlib and see if your model has fitted well to the training dataset.
 - Upload the predictions to the Kaggle Competition.
 - Enjoy 😎 
+
+## Assignment 1 Solution
+
+Check out the [**solution for Assignment 1 here**](./Assignment%201%20solution.ipynb)
