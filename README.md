@@ -18,7 +18,7 @@ Develop an adaptive reinforcement learning (RL) agent, "Agent Jackie," tasked wi
 - Fast-track Python programming for machine learning.
 - Essential understanding of data preprocessing, model training, and evaluation.
 
-### Week 2: Introduction to Reinforcement Learning
+### [Week 2: Introduction to Reinforcement Learning](<./Week 2/>)
 
 - Swift definition of RL concepts.
 - Distinction between supervised and RL.
