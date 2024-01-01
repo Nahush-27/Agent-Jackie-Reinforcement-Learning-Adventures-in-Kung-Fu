@@ -26,7 +26,7 @@ Develop an adaptive reinforcement learning (RL) agent, "Agent Jackie," tasked wi
 - Understanding the exploration-exploitation trade-off.
 - Rapid exploration strategies: epsilon-greedy, softmax, and others.
 
-### Week 3: Markov Decision Process and Value Iteration
+### [Week 3: Markov Decision Process and Value Iteration](<./Week 3/>)
 
 - In-depth exploration of MDP as a formalism for RL.
 - Comprehensive explanation of the value iteration algorithm.
