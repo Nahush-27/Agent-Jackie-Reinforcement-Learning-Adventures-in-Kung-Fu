@@ -44,3 +44,8 @@ Make sure to make plenty use of <u>classes and objects</u> while implementing th
 The *Deadline* will be **11:59 pm, 31st Dec (Sun)**.  
 For submission, you are required to create a GitHub Repository (if you don't have an account make one quickly 🐌). *Upload* the final Notebook(.ipynb) file to the repo. Remember to do the same for Week 1 submissions.
 > Note that for final evaluation of WIDS, this Repository will be important so make one quickly.
+
+
+## Assignment Solution
+
+Check out the [**solution for Assignment 2 here**](./Assignment%202%20solution.ipynb)
