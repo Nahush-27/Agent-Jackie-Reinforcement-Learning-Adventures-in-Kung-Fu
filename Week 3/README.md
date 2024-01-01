@@ -48,9 +48,9 @@ Your task is to first encode this txt file into an MDP in your python notebook a
 	.  
 	V*(S - 1) &nbsp;&nbsp;&nbsp; π*(S - 1)  
 
-We have also provided you with [generateMDP.py](./generateMDP.py) which can be used to build different MDP's. You may use this syntax in your terminal(with different parameters) to create an MDP with 7 states, 5 actions and gamma 0.89. It will be episodic created using randomseed 21.
+We have also provided you with [generateMDP.py](./generateMDP.py) which can be used to build different MDP's. You may use this syntax in your terminal(with different parameters) to create an MDP with 7 states, 5 actions and gamma 0.89. It will be episodic created using randomseed 21 and stored in data folder named test.txt
 ```shell
-python .\generateMDP.py --S 7 --A 5 --gamma 0.89 --mdptype "episodic" --rseed 21 >> "./data/test"
+python .\generateMDP.py --S 7 --A 5 --gamma 0.89 --mdptype "episodic" --rseed 21 >> "./data/test.txt"
 ```
 
   
