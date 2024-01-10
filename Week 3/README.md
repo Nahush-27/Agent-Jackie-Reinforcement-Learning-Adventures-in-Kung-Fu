@@ -1,5 +1,5 @@
 # Week 3: Markov Decision Process (MDP)
-Greetings, Adventurers! Welcome to Week 3 of our thrilling journey through the realms of reinforcement learning. This week is packed with excitement as we delve deep into the fascinating universe of Markov Decision Processes (MDP).
+Greetings, Adventurers! Hope you had an amazing, enjoyable week with Christmas 🎅 and New Year 🌟 and an awesome Bandit (maybe a tad bit Heavy🪨). Now this week will be even more fun (~~heavy~~). Welcome to Week 3 of our thrilling journey through the realms of reinforcement learning. This week is packed with excitement as we delve deep into the fascinating universe of Markov Decision Processes (MDP).
 
 ## 🚀 Markov Decision Process
 
@@ -23,7 +23,7 @@ Now that you've mastered the fundamentals, let's gear up to solve MDPs using the
 
 ## 🎓 Assignment 3
 
-Hope you had an amazing, enjoyable week with Christmas 🎅 and New Year 🌟 and an awesome Bandit (maybe a tad bit Heavy🪨). Now this week will be even more fun (~~heavy~~). Your goal is to take in an **MDP** and plan it. That is for a given MDP, the *Value Iteration* algorithm should be able to give an action for each state that would result in optimality for the MDP.  
+In this week, your goal is to take in an **MDP** and plan it. That is, for a given MDP, write the *Value Iteration* algorithm that should be able to give an action for each state that would result in optimality for the MDP.  
   
 The MDP is given in the [data folder](./files/data.zip) in the format of *type-mdp-num_state-num_actions.txt* which contains the details of the MDP in the following form:
 > **numStates** S  
@@ -48,9 +48,9 @@ Your task is to first encode this txt file into an MDP in your python notebook a
 	.  
 	V*(S - 1) &nbsp;&nbsp;&nbsp; π*(S - 1)  
 
-We have also provided you with [generateMDP.py](./generateMDP.py) which can be used to build different MDP's. You may use this syntax in your terminal(with different parameters) to create an MDP with 7 states, 5 actions and gamma 0.89. It will be episodic created using randomseed 21.
+We have also provided you with [generateMDP.py](./generateMDP.py) which can be used to build different MDP's. You may use this syntax in your terminal(with different parameters) to create an MDP with 7 states, 5 actions and gamma 0.89. It will be episodic created using randomseed 21 and stored in data folder named test.txt
 ```shell
-python .\generateMDP.py --S 7 --A 5 --gamma 0.89 --mdptype "episodic" --rseed 21 >> "./data/test"
+python .\generateMDP.py --S 7 --A 5 --gamma 0.89 --mdptype "episodic" --rseed 21 >> "./data/test.txt"
 ```
 
   
