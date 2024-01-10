@@ -33,7 +33,7 @@ Develop an adaptive reinforcement learning (RL) agent, "Agent Jackie," tasked wi
 - Providing a formal proof of convergence for the value iteration algorithm.
 - Practical coding exercises to implement and understand the algorithm in Python.
 
-### Week 4-5 : Q-Learning Algorithm and Project Implementation
+### [Week 4-5 : Q-Learning Algorithm and Project Implementation](<./Week 4 & 5/>)
 
 - Introduction to Q-learning as a model-free RL algorithm.
 - Implementing Q-learning algorithm from scratch.
