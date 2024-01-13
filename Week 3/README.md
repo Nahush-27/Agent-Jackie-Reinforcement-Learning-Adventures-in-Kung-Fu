@@ -57,3 +57,7 @@ python .\generateMDP.py --S 7 --A 5 --gamma 0.89 --mdptype "episodic" --rseed 21
 To make your task easier we have provided with 6 MDP and solutions of 4 of them. We will give the solutions for the last 2 of them next week so remain on your toes.  
   
 **Submission**: Same as last week upload the Notebook to your Github Page. Ensure that you first write the algorithm and then use it to solve for all 6 of the given MDP in seperate code blocks. Submission Deadline is **11:59 pm, 7 Jan**. Have a fun week 🚀.
+
+## Assignment Solution
+
+Check out the [**solution for Assignment 3 here**](./Assignment%203%20solution.ipynb)
